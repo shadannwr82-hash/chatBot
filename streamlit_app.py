@@ -497,7 +497,7 @@ def offline_chatbot_response(user_input: str) -> str:
         return "“The future belongs to those who learn more skills and combine them creatively.” – Robert Greene"
 
     elif "learn faster" in user_input:
-        return "Use active recall, teach what you learn, and work on real projects — not just theory."
+        return "Use active recall, teaching what you learn, and work on real projects — not just theory."
 
     # -----------------------------------------------------------------
     # FALLBACK
